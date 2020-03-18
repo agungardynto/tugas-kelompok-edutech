@@ -2,6 +2,10 @@
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+.mt-5xx {
+    margin-top: 100px;
+}
+
 .first-story h1,
 .second-story h1 {
     font-size: 65px;
@@ -30,4 +34,9 @@
 
 .carousel-inner .carousel-item {
     height: 400px;
+}
+
+.btn-outline-primary {
+    width: 50% !important;
+    padding: 10px 20px !important;
 }
